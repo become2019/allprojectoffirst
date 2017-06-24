@@ -1,0 +1,26 @@
+[BEGIN]------In function SetupTransferStationCache()=--------------
+
+start query from datebase
+data queried successfully
+	DATA INFO
+	---DATA #
+		id=14
+		name=[END]------In function SetupTransferStationCache()=--------------
+[BEGIN]------In function LoadTransferStationData()=--------------
+begin length-get-loop
+end length-get-loop,pointer seek to begin
+
+	INFO:		DATA_TRANSFER_STATION_SUM=1
+
+	DATA_TRANSFER_STATION DATA:
+					12
+[END ]------In function LoadTransferStationData()=--------------
+[BEGIN]------In function GetTSIncludeLine()=--------------
+start compute TS sum
+	length of pset=1
+start query unchecked data
+	start pocess #0		chl=1
+	DATA_TRANSFER_STATION[0].parentline=12
+	***satisfied found
+	*pset[--t]=0,uncheched
+[END]------In function GetTSIncludeLine()=--------------

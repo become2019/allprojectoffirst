@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MetroLookUp", "MetroLookUp\MetroLookUp.vcxproj", "{6FA4B4AC-4CB4-4344-A4DE-D4337EC6B70F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MetroLookup_LineDrawer", "..\地图绘制端\MetroLookup_LineDrawer\MetroLookup_LineDrawer\MetroLookup_LineDrawer.vcxproj", "{E824E753-6048-4CFE-A5C0-2E70F9E928C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA4B4AC-4CB4-4344-A4DE-D4337EC6B70F}.Debug|x64.ActiveCfg = Debug|x64
+		{6FA4B4AC-4CB4-4344-A4DE-D4337EC6B70F}.Debug|x64.Build.0 = Debug|x64
+		{6FA4B4AC-4CB4-4344-A4DE-D4337EC6B70F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6FA4B4AC-4CB4-4344-A4DE-D4337EC6B70F}.Debug|x86.Build.0 = Debug|Win32
+		{6FA4B4AC-4CB4-4344-A4DE-D4337EC6B70F}.Release|x64.ActiveCfg = Release|x64
+		{6FA4B4AC-4CB4-4344-A4DE-D4337EC6B70F}.Release|x64.Build.0 = Release|x64
+		{6FA4B4AC-4CB4-4344-A4DE-D4337EC6B70F}.Release|x86.ActiveCfg = Release|Win32
+		{6FA4B4AC-4CB4-4344-A4DE-D4337EC6B70F}.Release|x86.Build.0 = Release|Win32
+		{E824E753-6048-4CFE-A5C0-2E70F9E928C7}.Debug|x64.ActiveCfg = Debug|x64
+		{E824E753-6048-4CFE-A5C0-2E70F9E928C7}.Debug|x64.Build.0 = Debug|x64
+		{E824E753-6048-4CFE-A5C0-2E70F9E928C7}.Debug|x86.ActiveCfg = Debug|Win32
+		{E824E753-6048-4CFE-A5C0-2E70F9E928C7}.Debug|x86.Build.0 = Debug|Win32
+		{E824E753-6048-4CFE-A5C0-2E70F9E928C7}.Release|x64.ActiveCfg = Release|x64
+		{E824E753-6048-4CFE-A5C0-2E70F9E928C7}.Release|x64.Build.0 = Release|x64
+		{E824E753-6048-4CFE-A5C0-2E70F9E928C7}.Release|x86.ActiveCfg = Release|Win32
+		{E824E753-6048-4CFE-A5C0-2E70F9E928C7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

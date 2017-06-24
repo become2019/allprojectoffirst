@@ -1,0 +1,5 @@
+-----in-----[FUNCTION]----OnInitDialog------BEG
+	-line count: 2
+-----in-----[FUNCTION]----OnInitDialog------END
+
+

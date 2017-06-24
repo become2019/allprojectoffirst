@@ -1,0 +1,13 @@
+-[FUNCTION]--------LoadMap function START------
+load blue print map file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,0)
+
+STATION FOUND------STA_ID:7
+DSTATION FOUND------STA_ID:8
+DSTATION FOUND------STA_ID:9
+
+-[FUNCTION]--------LoadMap function END------

@@ -1,0 +1,2814 @@
+-[FUNCTION]--------LoadMap function START------
+Load Map via multifile
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
+-[FUNCTION]--------LoadMap function START------
+Load Map via Single file
+Ready to read MMD_NODE data to draw
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(128,0,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:1
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:2
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:3
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:4,STA_NAME=TRS1
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:4
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:5
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:6
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,128)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:7
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:8
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:9
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:10,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:11
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:12
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:13
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,255,0)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:14
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:15
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:16,STA_NAME=TRS1
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:17
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:18
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:19,STA_NAME=TRS2
+	STATION NOT DRAWED YET
+STATION FOUND------STA_ID:19
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:20
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:21
+D
+SPILT FOUND
+
+SPILT FOUND:head---HEAD COLOR RGB(0,0,255)
+
+
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:22
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:23
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+TRANSFER STATION FOUND :STA_ID:24,STA_NAME=TRS2
+	STATION HAVE BEEN DRAWED
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:25
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:26
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:27
+D
+-#station found,start read data from date base
+	#Retrive data from datebase successfully!
+STATION FOUND------STA_ID:28
+-[FUNCTION]--------LoadMap function END------
+-[FUNCTION]--------MoveLine function START------
+start coordinate compute
+I
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+IIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+IIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+IIIIIIIII
+SPILT found,start deal head
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+IIIIIII
+
+-----COPY DATA TO RAW FILE------
+
+C
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(128,0,0)
+
+CCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,128)
+
+CCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,255,0)
+
+CCCCCCCCC
+SPILT found:SPILT
+SPILT found:HEAD---HEAD COLOR RGB(0,0,255)
+
+CCCCCCC
+
+-[FUNCTION]-----MoveLine function END----
+
