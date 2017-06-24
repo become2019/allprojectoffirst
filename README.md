@@ -12,5 +12,6 @@
 暂无信息
 
 ## 图书管理系统 [FriendSaber](https://github.com/FriendSaber)
+暂无信息
 <br></br>
-目前正在更新仓库。不定期更新。
+不定期更新仓库。欢迎大家把自己的代码推送到仓库里面！
